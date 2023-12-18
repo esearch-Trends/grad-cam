@@ -1,5 +1,4 @@
 # arrhythmia-detection
-# TherAIpist Application Cloud Component
 
 ## Technologies
 
